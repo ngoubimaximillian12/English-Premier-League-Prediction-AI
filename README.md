@@ -1,5 +1,10 @@
+
 English Premier League Prediction AI
+
+
 Overview
+
+
 The English Premier League Prediction AI is a machine learning-based project designed to predict the outcomes of football matches in the English Premier League. The project uses historical match data, player statistics, and team performances to train machine learning models that predict whether a match will end in a win, loss, or draw.
 
 By utilizing popular algorithms like Random Forest and Logistic Regression, this project aims to provide accurate predictions of football matches, with the ultimate goal of helping fans, analysts, and betting enthusiasts make informed decisions.
